@@ -8,7 +8,7 @@ Test
 2. **They're so freaking cute**
 3. **They're loyal**
 
-![alt text](https://github.com/Introduction-to-AI-ML/MariamT-Journal/blob/main/Cats.jpg)
+![alt text](https://github.com/Introduction-to-AI-ML/MariamT-Journal/blob/main/Cut%20cat)
 
 
 
