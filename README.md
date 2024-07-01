@@ -21,4 +21,7 @@
 --- Cats are nearsighted, but their peripheral vision and night vision are much better than that of humans.
 --- Cats can jump up to six times their length.
 
+***Best Cat Quotes***
+`My cat is cuter than yours.`
 `You had me at ~~~meow~~~`
+`“Cats own numerous charms which will make you forget all your worries.”~Saki.`
