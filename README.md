@@ -1,7 +1,7 @@
-# MariamT-Journal
+# Mariam Taiwo - Journal
 
 # My favorite animal
-## Cats
+## ~~~ Cats ~~~
 ### Reasons
 1. **They're so sassy**
 2. **They're so freaking cute**
